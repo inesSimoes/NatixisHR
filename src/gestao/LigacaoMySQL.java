@@ -2,9 +2,10 @@ package gestao;
 
 import java.sql.DriverManager;
 import java.sql.SQLException;
+import java.sql.Connection;
+
 import java.util.Properties;
 
-import com.mysql.jdbc.Connection;
 
 public class LigacaoMySQL {
 	
